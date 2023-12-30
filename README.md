@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a software engineer who develop applications in various languages across frontend, backend, cross-platform, and especially iOS. 
+I have a keen interest in side projects and toy projects.
+
 <!--
 **hsleedevelop/hsleedevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=hsleedevelop)
